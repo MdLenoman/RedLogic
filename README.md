@@ -1,1 +1,1 @@
-# RedLogic
+# RedLogic Localization File
